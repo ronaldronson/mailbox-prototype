@@ -1,0 +1,24 @@
+.c-card.t-demo {
+    cursor: pointer;
+    border-radius: 0;
+    box-shadow: none;
+    background-color: #f9f9f9;
+}
+
+.c-card.t-demo .c-card__item {
+    border-right: 1px solid #eee;
+}
+
+.c-card.t-demo .c-card--is-active {
+    background-color: #fff;
+    border-right: 0;
+}
+
+.c-card.t-demo .c-card--is-new{
+    background-color: #f2f2ea
+}
+
+.c-text--loud.t-demo{
+    display: inline-block;  
+    width: 95%;
+}

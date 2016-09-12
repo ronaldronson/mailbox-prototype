@@ -1,0 +1,13 @@
+*.sublime-workspace
+.DS_Store
+.idea
+.vscode
+node_modules
+npm-debug.log
+newrelic_agent.log
+.tern-project
+.DS_Store
+*.mode1v3
+*.perspectivev3
+*.pbxuser
+public/bundle*
