@@ -50,7 +50,6 @@ export default class Mail extends Component {
 
     render() {
         const {list, item} = this.state;
-        console.log('render', list);
         return (
             <main className="o-grid o-grid--no--gutter o-panel">
                 <div className="o-grid__cell--width-40 o-panel-container">
